@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gabysaludable31-glitch.github.io/gaby-saludable/sitemap.xml
